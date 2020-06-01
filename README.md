@@ -3,7 +3,7 @@ These are various models employed to predict the number of COVID cases in India 
 
 Prophet              : good fit
 
-ARMA                 : good fit
+ARIMA                 : good fit
 
 LSTM                 : unsatisafctory fit
 
